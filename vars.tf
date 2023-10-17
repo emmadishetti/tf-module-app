@@ -1,0 +1,10 @@
+variable "tags" {}
+variable "env" {}
+variable "vpc_id" {}
+variable "subnet_ids" {}
+variable "sg_ingress_cidr" {}
+variable "port" {}
+variable "ssh_ingress_cidr" {}
+variable "component" {}
+variable "instance_type" {}
+variable "ami" {}
